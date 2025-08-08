@@ -1,7 +1,6 @@
 <!-- Banner -->
-<p align="center">
+
   <img src="https://i.ibb.co/GfCRZmzJ/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner.png" alt="Banner" style="width:100%; max-height:300px;" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Fakhrul Islam Sipon</h1>
 
