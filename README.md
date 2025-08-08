@@ -1,7 +1,12 @@
 <!-- Banner -->
 
   <p align="center">
-  <img src="https://i.postimg.cc/mZcrdxn6/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner.png" alt="Banner Image" width="80%" />
+  <img 
+    src="https://i.postimg.cc/mZcrdxn6/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner.png" 
+    alt="Banner Image" 
+    width="80%" 
+    style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" 
+  />
 </p>
 
 <h1 align="center">👋 Hi, I'm Fakhrul Islam Sipon</h1>
@@ -37,19 +42,6 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/fakhrulislamsipon/zapshift">
-    <img src="https://i.ibb.co/3WJv2MR/parcel-project-cover.png" alt="ZapShift Parcel Project" width="60%" />
-    <br />
-    <strong>🚚 ZapShift Parcel Delivery System</strong>
-  </a>
-</p>
-
 ---
 
 ### 📈 GitHub Stats
