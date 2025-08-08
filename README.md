@@ -1,4 +1,4 @@
-![Banner]([https://i.imgur.com/YourBannerLink.jpg](https://media.licdn.com/dms/image/v2/D4E16AQE7IluhJelIGQ/profile-displaybackgroundimage-shrink_350_1400/B4EZiF20goGYAY-/0/1754592399153?e=1757548800&v=beta&t=X217mIkDfVr_UmiPQf-2bWz4aj4RyPolaQx4MGKwJvs)) <!-- নিজের banner image link বসাও -->
+![Banner](https://i.ibb.co/m3jpQ0v/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner-1.png) <!-- নিজের banner image link বসাও -->
 
 # 👋 Hi, I'm Fakhrul Islam Sipon
 
