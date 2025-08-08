@@ -54,6 +54,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fakhrulsipon&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrulsipon" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakhrulsipon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -88,19 +92,6 @@
 
 <p align="center">
   🇧🇩 Proudly from <strong>Bangladesh</strong> | 💚 Keep Learning, Keep Building
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakhrulsipon&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrulsipon" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhrulsipon&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrulsipon&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
