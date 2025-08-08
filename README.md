@@ -39,21 +39,37 @@ Always eager to learn new technologies and build meaningful projects.
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100064008810904)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/fakhrulislamsipon)
 
----
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🌱 A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fakhrulsipon&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrulsipon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fakhrulsipon" alt="fakhrulsipon" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fakhrulsipon&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrulsipon" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrulsipon&show_icons=true&locale=en&layout=compact" alt="fakhrulsipon" /></p>
+<!-- 🏆 GitHub Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fakhrulsipon&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakhrulsipon&show_icons=true&locale=en" alt="fakhrulsipon" /></p>
+<!-- 🔗 Connect Section (You can add links inside the <p> below) -->
+<h3 align="center">🔗 Connect with me</h3>
+<p align="center">
+  <!-- Add your social links here if needed -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrulsipon&" alt="fakhrulsipon" /></p>
+<!-- 📊 GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrulsipon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhrulsipon&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrulsipon&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 
