@@ -41,12 +41,3 @@ Always eager to learn new technologies and build meaningful projects.
 
 ---
 
-### 📊 GitHub Stats:
-
-![Sipon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakhrulislamsipon&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrulislamsipon&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakhrulislamsipon&theme=tokyonight)
-
-
