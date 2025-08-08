@@ -12,7 +12,7 @@ Always eager to learn new technologies and build meaningful projects.
 
 ### 🚀 Current Activities:
 - 🔭 I’m working on a Parcel Delivery System.
-- 🌱 Currently learning Next.js & Firebase Authentication.
+- 🌱 Currently learning Next.js.
 - 💬 Ask me about React, JavaScript, and Tailwind CSS.
 
 ---
