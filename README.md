@@ -1,4 +1,5 @@
-![Banner](./assets/banner.png)
+![Banner](https://i.ibb.co/GfCRZmzJ/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner.png)
+
 
 # 👋 Hi, I'm Fakhrul Islam Sipon
 
