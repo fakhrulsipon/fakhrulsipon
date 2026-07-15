@@ -78,14 +78,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=fakhrulsipon&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs?username=fakhrulsipon&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhrulsipon&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrulsipon&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fakhrulsipon&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-
 ---
 
 <p align="center">
