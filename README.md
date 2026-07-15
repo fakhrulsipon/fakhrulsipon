@@ -78,8 +78,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhrulsipon&show_icons=true&theme=tokyonight&description_lines_count=2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrulsipon&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=fakhrulsipon&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fakhrulsipon&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fakhrulsipon&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 ---
 
