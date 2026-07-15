@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.postimg.cc/mZcrdxn6/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner.png" alt="Fakhrul Islam Sipon Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+  <img src="https://i.postimg.cc/5tXLCSQv/Green-and-White-Minimalist-Business-Profile-with-Photo-Profile-Linked-In-Banner-(1).png" alt="Fakhrul Islam Sipon Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Fakhrul Islam Sipon</h1>
