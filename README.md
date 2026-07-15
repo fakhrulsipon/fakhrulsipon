@@ -102,6 +102,3 @@
 <p align="center">
   🇧🇩 Proudly from <strong>Bangladesh</strong> | 💚 Keep Learning, Keep Building
 </p>
-
-
-ata amar github er readme file akhon tumi atake tomake dewa resume anujayi . sundor kore update kore daw and readme file ta jen dekte eye catching lage.
