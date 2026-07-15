@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Fakhrul Islam Sipon</h1>
 <p align="center">
-  <strong>🚀 Full Stack Developer from Dhaka, Bangladesh 🇧🇩</strong>
+  <strong>🚀 Full Stack Developer </strong>
 </p>
 
 <p align="center">
@@ -74,15 +74,12 @@
 ### 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakhrulsipon&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fakhrulsipon&label=Profile%20views&color=10B981&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhrulsipon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrulsipon&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=fakhrulsipon&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs?username=fakhrulsipon&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
